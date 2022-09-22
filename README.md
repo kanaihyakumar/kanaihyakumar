@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kanaihyakumar
-- 👀 I’m interested in lot of things gonna update soon
+- 👀 I’m interested travelling, playing games(Sky children of lights is one best game I play), learning technology and lots more thing
 - 🌱 I’m currently learning more over the web development
-- 💞️ I’m looking to collaborate on "Gonna update soon"
+- 💞️ I’m looking to collaborate on a website which will really gonna help the developer to ease their work
 - 📫 To reach out to me just knock on my Insta profile @kanaihyakumar
 
 <!---
