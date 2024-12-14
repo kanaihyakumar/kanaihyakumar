@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanaihyakumar" alt="kanaihyakumar" /></a> </p>
 
-- 🔭 I’m currently working on **Speedy Kitty album**
+- 🔭 I’m currently working on **Speedy Kitty album**, **Cost Division Settlement Webpage**
 
 - 🌱 I’m currently learning **AWS**
 
