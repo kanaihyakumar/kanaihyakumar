@@ -36,22 +36,12 @@ const kanaihya: Developer = {
 };
 ```
 
-- 🔭 &nbsp;I'm currently building **Speedy Kitty Album** & **Cost Division Settlement** webapps
 - 🌱 &nbsp;Deep-diving into **AWS** & cloud-native architecture
 - 💬 &nbsp;Ask me about **Frontend architecture, Angular, .NET & UI/UX**
 - ⚡ &nbsp;Fun fact: **Sky: Children of the Light** is my favourite game to unwind
 - 📫 &nbsp;Reach me at **kanaihyakmr@gmail.com**
 
 <br clear="right"/>
-
-## 💼 Where I've Worked
-
-| Role | Company | Timeline |
-|------|---------|----------|
-| 🚀 **Software Engineer** | Koch Industries | `Dec 2022 — Present` |
-| 💡 **Senior Member Technical** | Broadridge Financial Solutions | `Dec 2019 — Dec 2022` |
-| 🎯 **Associate Consultant** | Capgemini | `Dec 2018 — Dec 2019` |
-| 🌟 **Senior Associate** | Wipro Technologies | `Nov 2016 — Oct 2018` |
 
 ## 🛠️ Tech Stack & Tools
 
