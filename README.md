@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=650&height=60&lines=Software+Engineer+%40+Koch+Industries;Angular+%26+.NET+Developer;React+%26+Vue.js+Developer;Crafting+pixel-perfect+UI+%E2%9C%A8;Turning+ideas+into+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=650&height=60&lines=Software+Engineer;Angular+%26+.NET+Developer;React+%26+Vue.js+Developer;Crafting+pixel-perfect+UI+%E2%9C%A8;Turning+ideas+into+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <a href="https://github.com/kanaihyakumar?tab=followers">
   <img src="https://img.shields.io/github/followers/kanaihyakumar?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github" alt="followers" />
@@ -28,9 +28,7 @@
 ```typescript
 const kanaihya: Developer = {
   role: "Software Engineer",
-  location: "Bengaluru, Karnataka, India 🇮🇳",
   experience: "9+ years",
-  currentlyAt: "Koch Industries",
   focus: ["Angular", ".NET", "React", "UI/UX"],
   learning: ["AWS", "Cloud Architecture"],
   passions: ["Travelling ✈️", "Gaming 🎮", "Coffee ☕"],
