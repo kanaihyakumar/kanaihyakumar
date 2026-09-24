@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=650&height=60&lines=Software+Engineer;Angular+%26+.NET+Developer;React+%26+Vue.js+Developer;Crafting+pixel-perfect+UI+%E2%9C%A8;Turning+ideas+into+products+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=818CF8&center=true&vCenter=true&width=680&height=60&lines=Software+Engineer+%40+Koch+Industries;.NET+MAUI+Mobile+Developer+%F0%9F%93%B1;Angular+%26+.NET+Developer;React+%26+Vue.js+Developer;Crafting+pixel-perfect+UI+%E2%9C%A8;Turning+ideas+into+products+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 <a href="https://github.com/kanaihyakumar?tab=followers">
   <img src="https://img.shields.io/github/followers/kanaihyakumar?label=Followers&style=for-the-badge&color=6366f1&labelColor=0d1117&logo=github" alt="followers" />
@@ -19,8 +19,6 @@
 
 </div>
 
-<br/>
-
 <img align="right" width="38%" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" alt="coding gif" />
 
 ## 👋 About Me
@@ -28,14 +26,18 @@
 ```typescript
 const kanaihya: Developer = {
   role: "Software Engineer",
+  location: "Bengaluru, Karnataka, India 🇮🇳",
   experience: "9+ years",
-  focus: ["Angular", ".NET", "React", "UI/UX"],
+  currentlyAt: "Koch Industries",
+  focus: ["Angular", ".NET MAUI", "React", "Mobile", "UI/UX"],
   learning: ["AWS", "Cloud Architecture"],
   passions: ["Travelling ✈️", "Gaming 🎮", "Coffee ☕"],
   motto: "Turn ideas into visually stunning, functional products.",
 };
 ```
 
+- 📱 &nbsp;**Mobile developer** crafting cross-platform apps for **iOS & Android** with **.NET MAUI**
+- 🔭 &nbsp;Currently shipping **SpeedSplit**, **Cheesy Hunger** & a suite of **VS Code developer extensions** 🧩
 - 🌱 &nbsp;Deep-diving into **AWS** & cloud-native architecture
 - 💬 &nbsp;Ask me about **Frontend architecture, Angular, .NET & UI/UX**
 - ⚡ &nbsp;Fun fact: **Sky: Children of the Light** is my favourite game to unwind
@@ -43,60 +45,178 @@ const kanaihya: Developer = {
 
 <br clear="right"/>
 
-## 🛠️ Tech Stack & Tools
+---
+
+## 🛠️ Tech Stack
 
 <div align="center">
 
-### Languages
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<sub>💻 &nbsp;**LANGUAGES**</sub><br/>
+<img src="https://skillicons.dev/icons?i=ts,js,cs,py,html,css&perline=6" alt="languages" />
 
-### Frontend
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![SASS](https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=white)
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black)
-![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=threedotjs&logoColor=white)
+<sub>🎨 &nbsp;**FRONTEND**</sub><br/>
+<img src="https://skillicons.dev/icons?i=angular,react,vue,tailwind,bootstrap,sass,threejs&perline=7" alt="frontend" />
 
-### Backend & Database
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+<sub>⚙️ &nbsp;**BACKEND & DATABASE**</sub><br/>
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,express,postgres,mongodb,mysql,redis,firebase&perline=8" alt="backend" />
 
-### DevOps & Tools
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<sub>☁️ &nbsp;**DEVOPS & TOOLS**</sub><br/>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,git,figma,postman&perline=6" alt="devops" />
+
+<br/>
+
+<sub><b>Also in my toolbox:</b> &nbsp;.NET MAUI &nbsp;·&nbsp; GSAP &nbsp;·&nbsp; jQuery &nbsp;·&nbsp; REST APIs &nbsp;·&nbsp; CI/CD</sub>
 
 </div>
+
+---
+
+## 🧩 VS Code Extensions
+
+<div align="center">
+
+**Developer tooling I've designed & published to the Visual Studio Marketplace** - live UI previews, Git workflows & code-quality lenses that speed up everyday development.
+
+<a href="https://marketplace.visualstudio.com/publishers/KanaihyaKumar">
+  <img src="https://img.shields.io/badge/VS%20Marketplace-9%20Extensions-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="marketplace publisher" />
+</a>
+<img src="https://img.shields.io/badge/Total%20Installs-500%2B-22c55e?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="total installs" />
+
+</div>
+
+<table>
+  <tr>
+    <td align="center" width="33%" valign="top">
+      <a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.maui-xaml-live-preview">
+        <img src="https://kanaihyakumar.gallerycdn.vsassets.io/extensions/kanaihyakumar/maui-xaml-live-preview/1.2.2/1784483258394/Microsoft.VisualStudio.Services.Icons.Default" width="64" height="64" alt="MAUI XAML Live Preview" />
+        <br/><b>MAUI XAML Live Preview</b>
+      </a>
+      <br/><sub>🟢 LIVE &nbsp;·&nbsp; ⭐ Featured</sub>
+      <p align="left"><sub>Live XAML preview for .NET MAUI that mirrors a running emulator - element inspection, style tracing & instant visual feedback as you type.</sub></p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.maui-xaml-live-preview"><img src="https://img.shields.io/badge/Install-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="install" /></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.call-web">
+        <img src="https://kanaihyakumar.gallerycdn.vsassets.io/extensions/kanaihyakumar/call-web/1.1.0/1789407935281/Microsoft.VisualStudio.Services.Icons.Default" width="64" height="64" alt="CallWeb" />
+        <br/><b>CallWeb</b>
+      </a>
+      <br/><sub>⭐ Featured</sub>
+      <p align="left"><sub>Turns the function under your cursor into an interactive call graph - pan, zoom & hover to trace connections with color-coded incoming vs outgoing arrows.</sub></p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.call-web"><img src="https://img.shields.io/badge/Install-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="install" /></a>
+    </td>
+    <td align="center" width="33%" valign="top">
+      <a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.gitcrew">
+        <img src="https://kanaihyakumar.gallerycdn.vsassets.io/extensions/kanaihyakumar/gitcrew/1.0.0/1789998023068/Microsoft.VisualStudio.Services.Icons.Default" width="64" height="64" alt="GitCrew" />
+        <br/><b>GitCrew</b>
+      </a>
+      <br/><sub>⭐ Featured</sub>
+      <p align="left"><sub>An interactive Git workbench for merge, rebase, cherry-pick, stash & guided releases - with a UI that previews exactly what each command will do before you confirm.</sub></p>
+      <a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.gitcrew"><img src="https://img.shields.io/badge/Install-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="install" /></a>
+    </td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td align="center" width="16%"><a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.a11y-scope"><img src="https://kanaihyakumar.gallerycdn.vsassets.io/extensions/kanaihyakumar/a11y-scope/1.0.0/1783698078505/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="A11yScope" /></a></td>
+    <td align="center" width="16%"><a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.api-lane"><img src="https://kanaihyakumar.gallerycdn.vsassets.io/extensions/kanaihyakumar/api-lane/1.0.0/1783697995587/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="ApiLane" /></a></td>
+    <td align="center" width="16%"><a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.breakpoint-lens"><img src="https://kanaihyakumar.gallerycdn.vsassets.io/extensions/kanaihyakumar/breakpoint-lens/1.0.0/1783698098725/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="BreakpointLens" /></a></td>
+    <td align="center" width="16%"><a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.prop-diff"><img src="https://kanaihyakumar.gallerycdn.vsassets.io/extensions/kanaihyakumar/prop-diff/1.0.0/1783698160763/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="PropDiff" /></a></td>
+    <td align="center" width="16%"><a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.query-trace"><img src="https://kanaihyakumar.gallerycdn.vsassets.io/extensions/kanaihyakumar/query-trace/1.0.0/1783698059508/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="QueryTrace" /></a></td>
+    <td align="center" width="16%"><a href="https://marketplace.visualstudio.com/items?itemName=KanaihyaKumar.time-debt"><img src="https://kanaihyakumar.gallerycdn.vsassets.io/extensions/kanaihyakumar/time-debt/1.0.0/1783698199790/Microsoft.VisualStudio.Services.Icons.Default" width="48" height="48" alt="TimeDebt" /></a></td>
+  </tr>
+  <tr>
+    <td align="center"><sub><b>A11yScope</b><br/>WCAG scanner</sub></td>
+    <td align="center"><sub><b>ApiLane</b><br/>API route tree</sub></td>
+    <td align="center"><sub><b>BreakpointLens</b><br/>CSS breakpoints</sub></td>
+    <td align="center"><sub><b>PropDiff</b><br/>Prop usages</sub></td>
+    <td align="center"><sub><b>QueryTrace</b><br/>N+1 detector</sub></td>
+    <td align="center"><sub><b>TimeDebt</b><br/>TODO age filter</sub></td>
+  </tr>
+</table>
+
+<div align="center">
+
+<a href="https://marketplace.visualstudio.com/publishers/KanaihyaKumar">
+  <img src="https://img.shields.io/badge/Browse%20all%20on%20Marketplace-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=0d1117" alt="browse all extensions" />
+</a>
+
+</div>
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🍔 Cheesy Hunger
+
+Franchise site with an interactive **3D storefront** you can drag to rotate 360°, a 150+ item menu, live franchise stats & one-tap WhatsApp ordering.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white) ![WebGL](https://img.shields.io/badge/WebGL-990000?style=flat-square&logo=webgl&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://www.cheesyhunger.com/)
+
+</td>
+<td width="50%" valign="top">
+
+### 💸 SpeedSplit
+
+Splitwise-style **expense splitting** - create groups, divide costs fairly among participants & track balances with real-time sync.
+
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black) ![RxJS](https://img.shields.io/badge/RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://www.speedsplit.com/)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📱 MAUI Recipes
+
+Documentation hub for **.NET MAUI** - XAML tutorials, MVVM patterns, layouts & Git guides for cross-platform app developers.
+
+![.NET MAUI](https://img.shields.io/badge/.NET%20MAUI-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![XAML](https://img.shields.io/badge/XAML-0C54C2?style=flat-square&logo=xaml&logoColor=white) ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://maui-recipes.web.app/)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Object Detection
+
+Real-time **webcam object detection** using TensorFlow.js and the COCO-SSD model, detecting objects live with high accuracy.
+
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-22d3ee?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0d1117)](https://objectdetectionkk.web.app/)
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+<a href="https://who-is-kanaihya.web.app">
+  <img src="https://img.shields.io/badge/Explore%20the%20full%20portfolio-d946ef?style=for-the-badge&logo=firefoxbrowser&logoColor=white&labelColor=0d1117" alt="portfolio" />
+</a>
+
+</div>
+
+---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kanaihyakumar&show_icons=true&count_private=true&hide_border=true&title_color=818cf8&icon_color=e879f9&text_color=c9d1d9&bg_color=0d1117" alt="stats" />
 <img height="180em" src="https://streak-stats.demolab.com/?user=kanaihyakumar&hide_border=true&background=0d1117&stroke=6366f1&ring=d946ef&fire=22d3ee&currStreakLabel=818cf8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="streak" />
 
-<img width="70%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kanaihyakumar&layout=compact&hide_border=true&langs_count=10&title_color=818cf8&text_color=c9d1d9&bg_color=0d1117" alt="top languages" />
-
 </div>
+
+---
 
 ## 🏆 GitHub Trophies
 
@@ -106,19 +226,7 @@ const kanaihya: Developer = {
 
 </div>
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=kanaihyakumar&bg_color=0d1117&color=818cf8&line=d946ef&point=22d3ee&area=true&hide_border=true)](https://github.com/kanaihyakumar)
-
-</div>
-
-<div align="center">
-
-<img width="100%" src="https://raw.githubusercontent.com/kanaihyakumar/kanaihyakumar/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-
-</div>
+---
 
 ## 🤝 Connect With Me
 
